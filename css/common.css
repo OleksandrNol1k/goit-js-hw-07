@@ -16,6 +16,8 @@ body {
 .gallery {
   list-style: none;
   display: flex;
+  flex-wrap: wrap;
+  gap: 48px 24px;
   padding-top: 100px;
   padding-bottom: 100px;
   justify-content: center;
