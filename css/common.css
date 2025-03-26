@@ -22,7 +22,7 @@ body {
   align-items: center;
 }
 
-img {
+.image {
   width: 360px;
   height: 300px;
 }
